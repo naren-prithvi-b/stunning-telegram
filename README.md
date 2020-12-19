@@ -5,6 +5,7 @@ Hi, I'm Naren Prithvi , a iOS Developer 🚀 from India. Beside's programming, I
 GIF
 Talking about Personal Stuffs:
 
+🏔 Freelancer
 🏎 Automotive
 🌱 I’m currently learning SwiftUI;
 💬 Ask me about anything, I am happy to help;
