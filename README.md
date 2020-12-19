@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 🏎 Automotive
 🌱 I’m currently learning SwiftUI;
 💬 Ask me about anything, I am happy to help;
-📫 How to reach me: @codewithArvind;
+📫 How to reach me: @naren_prithvi_b;
 Languages :
 ** Swift 
 ** SwiftUI 
