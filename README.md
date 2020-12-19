@@ -25,5 +25,4 @@ Languages :
 Tools
 
 Software Development: Visual Studio XCode
-Editing:Imovies
 Version Control: Bitbucket Git GitHub 
